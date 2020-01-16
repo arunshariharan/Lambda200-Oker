@@ -10,6 +10,9 @@ This lambda project consists of:
 * urls.json - Json file containing list of urls that need to be checked for 200 Ok status. 
 * aws-lambda-tools-defaults.json - default argument settings for use with Visual Studio and command line deployment tools for AWS
 
+## Project architecture
+![200 Oker architecture](https://miro.medium.com/max/3524/1*OJWA2VYLivuSwtxb6dE6Nw.png)
+
 ## Here are some steps to follow from Visual Studio:
 
 To deploy your function to AWS Lambda, right click the project in Solution Explorer and select *Publish to AWS Lambda*.
